@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://test1-beige-two.vercel.app/sitemap.xml
